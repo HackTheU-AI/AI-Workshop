@@ -8,3 +8,4 @@
   * tensorflow
   * sklearn
   * matplotlib
+5. Run Jupyter Notebook on cloned repository.
