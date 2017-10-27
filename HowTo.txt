@@ -1,0 +1,10 @@
+1. Clone this repository.
+2. Download Python: https://www.python.org/downloads/
+3. Install Jupyter Notebook: http://jupyter.org/install.html
+4. Install required python libraries:
+  * numpy
+  * pandas
+  * keras
+  * tensorflow
+  * sklearn
+  * matplotlib
